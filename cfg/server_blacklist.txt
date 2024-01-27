@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"The Spaceship - Chicago ALLCLASS MGE Chillypunch"
+		"date"		"1615503987"
+		"addr"		"103.214.111.90:27215"
+	}
+}
